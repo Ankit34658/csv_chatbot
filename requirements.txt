@@ -1,0 +1,18 @@
+#PANDAS AI APPROACH
+python=3.11
+python-dotenv
+streamlit
+pandasai
+pandasai-litellm
+pandas
+openai
+
+#rag_csv
+python-dotenv
+pandas
+langchain-openai
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+
